@@ -20,4 +20,3 @@ namespace fibo {
         }
     }
 }
-fibo.fibonaccii(0);
