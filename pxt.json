@@ -4,12 +4,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*",
-        "pxt-Botones": "github:tiroa/pxt-Botones#77c3da82c906d3d8debfc9d788586f4c4bf8bf21",
-        "pxt-Prueba": "github:tiroa/pxt-Prueba#09ac5f0e54bd6f73a8fba7078a712fcda5fbf0dc",
-        "pxt-pruebasuma": "github:tobiasiroa/pxt-sumardosnumeros#291f3bf53dabfb5c3ec2ca0a1b4f9bb96d2aaccd",
-        "pxt-sumadosnumerosC": "github:tiroa/pxt-sumadosnumerosC#e43efd9203f54e68dd54e35bcdd79fec09194464",
-        "pxt-show": "github:tiroa/pxt-show#8fd8f83e73b8fea1acd5ddf652b4c7fbb9a9816b"
+        "microphone": "*"
     },
     "files": [
         "main.ts",
