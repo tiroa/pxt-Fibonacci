@@ -1,14 +1,13 @@
 
 > Open this page at [https://tiroa.github.io/pxt-fibonacci/](https://tiroa.github.io/pxt-fibonacci/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/tiroa/pxt-fibonacci** and import
+## Uso
+### FIBONACCI #fibofibonaccii
+Devuelve el valor de la sucesión de Fibonacci  del lugar dado.
+``` blocks
+fibo.fibonaccii(1)
+```
+Se muestra un ejemplo para 1.
 
 ## Edit this project ![Build status badge](https://github.com/tiroa/pxt-fibonacci/workflows/MakeCode/badge.svg)
 
