@@ -1,14 +1,13 @@
 {
-    "name": "m",
+    "name": "a",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "m": "github:tiroa/pxt-fibonacci#3d64e0f9d9d25522b5bb9fab72f7ae174f932826"
+        "m": "github:tiroa/pxt-fibonacci#1fdb2f35188bcb1b54e21d1e5f430d0211b343da"
     },
     "files": [
-        "main.ts",
         "README.md"
     ],
     "testFiles": [
