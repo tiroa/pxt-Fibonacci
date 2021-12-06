@@ -12,7 +12,6 @@
         "pxt-show": "github:tiroa/pxt-show#8fd8f83e73b8fea1acd5ddf652b4c7fbb9a9816b"
     },
     "files": [
-        "main.blocks",
         "main.ts",
         "README.md"
     ],
@@ -26,5 +25,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
