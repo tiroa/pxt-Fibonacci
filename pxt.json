@@ -5,7 +5,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "m": "github:tiroa/pxt-fibonacci#dc8ec4ceb1725036aa5912f035271100d7af58be"
+        "m": "github:tiroa/pxt-fibonacci#3d64e0f9d9d25522b5bb9fab72f7ae174f932826"
     },
     "files": [
         "main.ts",
