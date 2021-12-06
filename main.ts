@@ -6,9 +6,9 @@ namespace fibo {
     //% block="Mostrar Fibonacci de $n"
     export function fibonaccii(n : number) : void{
         if(n==0)
-        basic.showNumber(n)
+        basic.showNumber(n);
         else if(n==1)
-        basic.showNumber(n)
+        basic.showNumber(n);
         else{
             let f0 : number = 0;
             let f1 : number = 1;
