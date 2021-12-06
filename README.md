@@ -2,7 +2,7 @@
 > Open this page at [https://tiroa.github.io/pxt-fibonacci/](https://tiroa.github.io/pxt-fibonacci/)
 
 ## Uso
-### FIBONACCI #fibofibonaccii
+### FIBONACCI 
 Devuelve el valor de la sucesión de Fibonacci  del lugar dado.
 ``` blocks
 fibo.fibonaccii(1)
@@ -16,13 +16,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/tiroa/pxt-fibonacci** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/tiroa/pxt-fibonacci/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
