@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "m": "github:tiroa/pxt-fibonacci#dc8ec4ceb1725036aa5912f035271100d7af58be"
     },
     "files": [
         "main.ts",
