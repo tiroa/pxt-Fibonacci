@@ -3,7 +3,7 @@
 
 ## Uso
 ### FIBONACCI 
-Devuelve el valor de la sucesión de Fibonacci  del lugar dado.
+Muestra en pantalla el valor de la sucesión de Fibonacci del número dado.
 ``` blocks
 fibo.fibonaccii(1)
 ```
